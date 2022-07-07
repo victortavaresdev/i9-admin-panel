@@ -1,4 +1,0 @@
--- AlterTable
-ALTER TABLE `clients` MODIFY `cpf` VARCHAR(191) NOT NULL,
-    MODIFY `phone` VARCHAR(191) NOT NULL,
-    MODIFY `cep` VARCHAR(191) NOT NULL;
