@@ -1,1 +1,0 @@
-Para acessar a documentação das APIs, entre em: http://localhost:3000/api-docs
