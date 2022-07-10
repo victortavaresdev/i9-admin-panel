@@ -1,0 +1,20 @@
+.message {
+  background: var(--green);
+  left: 0;
+  padding: 0.2rem 0;
+  position: absolute;
+  top: 0;
+  width: 100%;
+  z-index: 99;
+}
+
+.message.red {
+  background: var(--red);
+}
+
+.message p {
+  color: var(--white);
+  font-size: 0.875rem;
+  letter-spacing: 1.3px;
+  text-align: center;
+}
